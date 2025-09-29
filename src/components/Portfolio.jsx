@@ -408,10 +408,7 @@ tech: ["Flask", "SentenceTransformers", "PyMuPDF", "python-docx", "scikit-learn"
                 <MapPin className="h-5 w-5 mr-2" />
                 <span>Boston, MA</span>
               </div>
-              <div className="flex items-center">
-                <Phone className="h-5 w-5 mr-2" />
-                <span>+1 617-397-8937</span>
-              </div>
+             
             </div>
             <p className="text-lg text-green-600 mb-8 font-medium">
               🎯 Seeking Spring 2026 internship/ Coop opportunities | Open to relocation
@@ -762,15 +759,7 @@ tech: ["Flask", "SentenceTransformers", "PyMuPDF", "python-docx", "scikit-learn"
             </div>
           </div>
 
-          <div className="flex items-center space-x-4">
-            <div className="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center">
-              <Phone className="h-6 w-6 text-blue-600" />
-            </div>
-            <div>
-              <h4 className="text-lg font-medium text-gray-900">Phone</h4>
-              <p className="text-gray-600">+1 617-397-8937</p>
-            </div>
-          </div>
+          
 
           <div className="flex items-center space-x-4">
             <div className="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center">
