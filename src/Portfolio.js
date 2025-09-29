@@ -149,7 +149,7 @@ export default function Portfolio() {
               </div>
             </div>
             <h1 className="text-4xl md:text-6xl font-bold text-gray-900 mb-6">
-              Hello, I'm <span className="text-blue-600">Afrah Fathima S</span>
+              Hello, I'm <span className="text-blue-600">Afrah Fathima </span>
             </h1>
             <p className="text-xl md:text-2xl text-gray-600 mb-4 max-w-4xl mx-auto">
               Graduate student in Computer Science with experience in full-stack development and AI/ML solutions across travel tech, legal automation, and agri-tech domains
