@@ -778,7 +778,7 @@ tech: ["Flask", "SentenceTransformers", "PyMuPDF", "python-docx", "scikit-learn"
             </div>
             <div>
               <h4 className="text-lg font-medium text-gray-900">Location</h4>
-              <p className="text-gray-600">Boston, MA</p>
+              <p className="text-gray-600">Boston</p>
             </div>
           </div>
         </div>
