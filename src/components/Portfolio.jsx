@@ -499,7 +499,7 @@ tech: ["Flask", "SentenceTransformers", "PyMuPDF", "python-docx", "scikit-learn"
                 <a href="https://www.linkedin.com/in/afrah-fathima-b98090241/" className="text-gray-600 hover:text-blue-600 transition-colors transform hover:scale-110">
                   <Linkedin className="h-6 w-6" />
                 </a>
-                <a href="https://github.com/yourusername" className="text-gray-600 hover:text-blue-600 transition-colors transform hover:scale-110">
+                <a href="https://github.com/afrah123456/" className="text-gray-600 hover:text-blue-600 transition-colors transform hover:scale-110">
                   <Github className="h-6 w-6" />
                 </a>
                 <a href="mailto:shahabuddin.af@northeastern.edu" className="text-gray-600 hover:text-blue-600 transition-colors transform hover:scale-110">
