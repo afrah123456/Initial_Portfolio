@@ -423,11 +423,11 @@ tech: ["Flask", "SentenceTransformers", "PyMuPDF", "python-docx", "scikit-learn"
              
             </div>
             <p className="text-lg text-green-600 mb-8 font-medium">
-              🎯 Seeking Spring 2026 internship/ Coop opportunities | Open to relocation
+              🎯 Seeking Spring 2026 internship/ Co-op opportunities | Open to relocation
             </p>
             <div className="flex justify-center space-x-4">
-              <a href="/Afrah_Fathima_Resume_Main.pdf" target="_blank" rel="noopener noreferrer" className="bg-blue-600 text-white px-8 py-3 rounded-lg hover:bg-blue-700 transition-colors font-medium">
-                View My Resume
+              <a href="/Afrah_DataScience.pdf" target="_blank" rel="noopener noreferrer" className="bg-blue-600 text-white px-8 py-3 rounded-lg hover:bg-blue-700 transition-colors font-medium">
+                View My Resume !!
               </a>
              <a href="#contact" className="border border-gray-300 text-gray-700 px-8 py-3 rounded-lg hover:bg-gray-50 transition-colors font-medium">
   Contact Me
