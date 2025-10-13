@@ -307,10 +307,10 @@ tech: ["Flask", "SentenceTransformers", "PyMuPDF", "python-docx", "scikit-learn"
   course: "CS 3100 Program Design and Implementation 2",
   period: "Sep 2025- present",
   achievements: [
-    "Mentored 40+ students in object-oriented programming, design patterns, and Java development through weekly lab sessions",
-    "Provided code reviews, debugging support, and feedback on assignments to help students build large-scale software systems" ,   
-    "Guided students in implementing design patterns, unit testing, and collaborative programming best practices",
-    "Assisted students during office hours with debugging, design decisions, and understanding complex OOP concepts and design patterns"
+    "Mentored students in object-oriented programming, software design patterns, and Java development through interactive lab sessions and hands-on coding exercises.",
+    "Conducted code reviews and provided debugging assistance to improve students’ programming logic, code structure, and software design quality." ,   
+    "Guided students in applying unit testing, version control, and collaborative development practices to build scalable, maintainable software systems",
+    "Supported students during office hours with design decisions, debugging, and conceptual understanding of advanced OOP principles and design patterns."
   ]
 },
   {
