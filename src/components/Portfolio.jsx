@@ -536,7 +536,7 @@ tech: ["Flask", "SentenceTransformers", "PyMuPDF", "python-docx", "scikit-learn"
                       <h4 className="font-bold text-gray-900 text-lg leading-tight">Northeastern University</h4>
                       <p className="text-gray-600 text-sm">Boston, MA</p>
                     </div>
-                    <div className="w-3 h-3 bg-blue-600 rounded-full mt-2 flex-shrink-0"></div>
+                    <div className="w-3 h-3 bg-red-600 rounded-full mt-2 flex-shrink-0"></div>
                   </div>
                   <div className="mb-3">
                     <p className="text-blue-600 font-semibold text-base">Master of Science in Computer Science</p>
