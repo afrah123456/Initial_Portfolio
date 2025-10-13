@@ -301,6 +301,18 @@ tech: ["Flask", "SentenceTransformers", "PyMuPDF", "python-docx", "scikit-learn"
   };
 
   const experience = [
+    {
+  role: "Graduate Teaching Assistant", 
+  company: "Khoury College of Computer Sciences",
+  course: "CS 3100 Program Design and Implementation 2",
+  period: "Sep 2025- present",
+  achievements: [
+    "Mentored 40+ students in object-oriented programming, design patterns, and Java development through weekly lab sessions",
+    "Provided code reviews, debugging support, and feedback on assignments to help students build large-scale software systems" ,   
+    "Guided students in implementing design patterns, unit testing, and collaborative programming best practices",
+    "Assisted students during office hours with debugging, design decisions, and understanding complex OOP concepts and design patterns"
+  ]
+},
   {
     role: "Software Developer Intern",
     company: "Brainvault Technologies, India",
