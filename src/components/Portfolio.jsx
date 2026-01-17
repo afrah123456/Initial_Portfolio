@@ -545,7 +545,7 @@ tech: ["Flask", "SentenceTransformers", "PyMuPDF", "python-docx", "scikit-learn"
                   <div className="bg-blue-50 rounded-md p-3">
                     <p className="text-gray-700 text-sm">
                       <span className="font-semibold text-gray-900">Relevant Coursework:</span><br/>
-                      Algorithms, Programming Design Paradigm, DBMS, Cloud Computing, Web Development, Machine Learning , Data Science
+                      Algorithms, Programming Design Paradigm, DBMS, Cloud Computing, Web Development, Machine Learning , Data Science, Machine Learning Operations
                     </p>
                   </div>
                 </div>
