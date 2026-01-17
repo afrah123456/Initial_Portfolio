@@ -171,6 +171,17 @@ export default function Portfolio() {
       demo: ""
     },
     {
+      title: " 🚀 Spaceship Titanic: Kaggle Binary Classification Challenge",
+      description: [
+        "A machine learning competition project focused on predicting passenger transportation outcomes using the Spaceship Titanic dataset from Kaggle. The challenge involves analyzing passenger information and voyage details to build accurate classification models that can identify patterns in the data. The system processes passenger records and creates meaningful features from the available data to improve prediction accuracy. Multiple machine learning algorithms are tested and combined to achieve the best possible performance, with careful attention to model evaluation and feature selection to identify which passenger characteristics are most predictive. This project demonstrates end-to-end data science workflow including exploratory analysis, feature engineering, model selection, hyperparameter tuning, and performance optimization in a competitive environment."
+
+  ],
+      tech: ["Kaggle Platform", "Hyperparameter Optimization", "Statistical Modeling", "Data Visualization Libraries"],
+      
+      github: "https://github.com/afrah123456/Spaceship-Titanic-",
+      demo: ""
+    },
+    {
       title: " 💼 Job-Tracker - Scalable Full Stack Application",
       description: [
     "Built a job application management system using React, Node.js, TypeScript, and MySQL with secure JWT authentication",
