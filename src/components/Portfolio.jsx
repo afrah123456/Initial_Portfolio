@@ -444,7 +444,7 @@ tech: ["Flask", "SentenceTransformers", "PyMuPDF", "python-docx", "scikit-learn"
               Hello, I'm <span className="text-blue-600">Afrah Fathima S</span>
             </h1>
             <p className="text-xl md:text-2xl text-gray-600 mb-4 max-w-3xl mx-auto text-center leading-relaxed">
-              MSCS Student | Exploring AI, Data Science, and Full-Stack Development to Create Innovative, Real-World Solutions
+              Building AI That Solves Real World Problems | MSCS | ML Engineer | From Predictions to Production
             </p>
             
             <div className="flex justify-center items-center space-x-6 mb-8 text-gray-600">
