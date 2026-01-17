@@ -423,7 +423,7 @@ tech: ["Flask", "SentenceTransformers", "PyMuPDF", "python-docx", "scikit-learn"
              
             </div>
             <p className="text-lg text-green-600 mb-8 font-medium">
-              🎯 Seeking Spring 2026 internship/ Co-op opportunities | Open to relocation
+              🎯 Seeking New Grad roles 2026 opportunities | Willing to relocation
             </p>
             <div className="flex justify-center space-x-4">
               <a href="/Afrah_DataScience.pdf" target="_blank" rel="noopener noreferrer" className="bg-blue-600 text-white px-8 py-3 rounded-lg hover:bg-blue-700 transition-colors font-medium">
