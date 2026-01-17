@@ -819,10 +819,11 @@ tech: ["Flask", "SentenceTransformers", "PyMuPDF", "python-docx", "scikit-learn"
         <div className="bg-green-50 p-6 rounded-xl border border-green-200">
           <p className="text-black-800 font-medium mb-2"> Let’s Collaborate On </p>
           <ul className="text-green-700 space-y-1">
-            <li>• Spring 2026 Internships & Co-ops</li>
+            <li>• New Grad roles 2026 </li>
             <li>• AI/ML & Data Science Projects</li>
             <li>• Full-Stack Development Work</li>
-            <li>• Research Collaborations</li>
+            <li>• Research Collaborations </li>
+            <li>• Open source projects </li>
           </ul>
         </div>
 
