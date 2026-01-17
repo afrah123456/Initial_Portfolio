@@ -150,6 +150,16 @@ export default function Portfolio() {
 
   const projects = [
     {
+      title: " 🛒 Online Purchase Intent Prediction ",
+      description: [
+        "AI-powered purchase intent prediction system that analyzes customer browsing behavior to predict cart abandonment in real-time. The platform uses ensemble machine learning models achieving 86.5% accuracy to provide risk scores and actionable recommendations, helping e-commerce businesses optimize conversion rates. Features a React dashboard with live monitoring and a production-ready FastAPI backend."
+  ],
+      tech: ["Python", "FastAPI", "React", "XGBoost", "scikit-learn", "Pandas", "NumPy", "Recharts", "Render", "Netlify"],
+      
+      github: "https://github.com/afrah123456/online-purchase-intent-predictor",
+      demo: " https://purchase-intent-predictor.netlify.app/"
+    },
+    {
       title: " 💼 Job-Tracker - Scalable Full Stack Application",
       description: [
     "Built a job application management system using React, Node.js, TypeScript, and MySQL with secure JWT authentication",
