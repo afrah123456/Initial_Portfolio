@@ -160,6 +160,17 @@ export default function Portfolio() {
       demo: " https://purchase-intent-predictor.netlify.app/"
     },
     {
+      title: " 💰 AI-Driven Financial Risk Management System ",
+      description: [
+
+        "A machine learning system that helps financial institutions assess credit risk and predict loan defaults. By analyzing customer financial data, the platform categorizes borrowers into risk levels and provides clear explanations for each prediction, enabling safer and more informed lending decisions. Users can input financial records and receive instant risk assessments with detailed explanations. The system handles large datasets effectively and uses ensemble modeling to balance accuracy with interpretability, helping loan officers make data-driven decisions while understanding the reasoning behind each risk score. This streamlines the credit evaluation process and helps institutions reduce default rates while maintaining fair lending practices."
+  ],
+      tech: ["Risk Management", "Financial Analytics", "Data Preprocessing", "Ensemble Learning", "Credit Scoring"],
+      
+      github: "https://github.com/afrah123456/AI-Driven-Financial-Risk-Management-System",
+      demo: ""
+    },
+    {
       title: " 💼 Job-Tracker - Scalable Full Stack Application",
       description: [
     "Built a job application management system using React, Node.js, TypeScript, and MySQL with secure JWT authentication",
