@@ -423,10 +423,10 @@ tech: ["Flask", "SentenceTransformers", "PyMuPDF", "python-docx", "scikit-learn"
              
             </div>
             <p className="text-lg text-green-600 mb-8 font-medium">
-              🎯 Seeking New Grad roles 2026 opportunities | Willing to relocation
+              🎯 Seeking New Grad roles 2026 opportunities | Willing to relocate
             </p>
             <div className="flex justify-center space-x-4">
-              <a href="/Afrah_DataScience.pdf" target="_blank" rel="noopener noreferrer" className="bg-blue-600 text-white px-8 py-3 rounded-lg hover:bg-blue-700 transition-colors font-medium">
+              <a href="C:\Users\Afrah\Downloads\new-port\my-portfolio\public\DataScience-FT.pdf" target="_blank" rel="noopener noreferrer" className="bg-blue-600 text-white px-8 py-3 rounded-lg hover:bg-blue-700 transition-colors font-medium">
                 View My Resume !!
               </a>
              <a href="#contact" className="border border-gray-300 text-gray-700 px-8 py-3 rounded-lg hover:bg-gray-50 transition-colors font-medium">
